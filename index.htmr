@@ -4,6 +4,7 @@
 
         <meta charset='UFF -8"
         <titleBarbearia Alura</title>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <h1>Sobre a Barbearia Alura.<h1>
