@@ -2,15 +2,24 @@ body {
     background: #CCCCCC;
 }
 
-h1 {
-    text align: center;
+#banner {
+    widht: 100%; 
 }
 
-p {
+h1 { 
     text-align: center;
-    background: #CCCCCC
+    } 
+
+P{
+    text-align: center;
+    background #CCCCCC;
+}
+
+#missão {
+    font-size: 20px;
 }
 
 em strong {
-    color: red;
+    color:#FFOOOO;
 }
+    
